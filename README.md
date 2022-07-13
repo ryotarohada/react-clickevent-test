@@ -1,8 +1,10 @@
-# Boilerplate_Next
+# react-clickevent-test
 
 ## 概要
 
-Next.js のテンプレート
+React の onClick と onDoubleClick の判定を切り分けるテスト。
+
+参考記事：https://naughtldy.hatenablog.jp/entry/2018/02/27/160000
 
 ## 開発環境構築方法
 
